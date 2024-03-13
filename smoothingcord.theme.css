@@ -1,0 +1,180 @@
+/**
+ * @name SmoothingCord
+ * @author mijgui
+ * @version 0.0.1
+ * @description For report bugs - mijgui. (please) (And yes, I know that I can't come up with names...)
+ * @source https://github.com/ClearVision/ClearVision-v6
+ * @website https://clearvision.github.io
+ * @invite dHaSxn3
+ */
+
+
+
+
+/*all.*/
+
+/* The code preview comments */
+
+.theme-dark .hljs-comment, .theme-dark .hljs-code, .theme-dark .hljs-formula {
+    color: green;  
+}
+
+/**/
+
+.theme-dark .container_ca50b9 {
+    border-radius: 14px 14px 14px 14px;
+    margin: 0px 7px 8px 7px;
+}
+
+.container_d667ff {
+    border-radius: 14px;
+    margin: 0px 7px 5px 7px;
+}
+
+.button__66e8c {
+    border-radius: 10px;
+}
+
+.panel_bd8c76 {
+    border-radius: 14px;
+    margin: 0px 7px 5px 7px;
+}
+
+.alignStretch_e239ef {
+    margin-left: -4px;
+}
+
+.alignStretch_e239ef:hover button {
+    border-radius: 10px;
+}
+
+.withTagAsButton_cc125f:hover  {
+    border-radius: 14px;
+}
+
+.withTagAsButton_cc125f {
+    background-color: #101413;
+    margin-bottom: -2px;
+    margin-left: -3px;
+}
+
+.avatarWrapper_ba5175 svg {
+    margin-left: 2px;
+}
+
+.sidebar_ded4b5, .panels__58331 {
+    background-color: #1d2725;
+}
+
+.inner_ab95dc  {
+    width: 100%;
+    height: 50px;
+}
+
+.rtcConnectionQualityFine__471b6 {
+    width: 210px;
+    margin-top: -3px;
+}
+
+.rtcConnectionQualityFine__471b6 svg {
+    transform: rotate(-90deg);
+}
+
+.icon_c1b424 {
+    border-radius: 8px;
+}
+
+.flex_f5fbb7 {
+    margin-right: -5px;
+    margin-top: 2px;
+}
+
+.sidebar_ded4b5 {
+    width: 270px;
+}
+
+.privateChannelsHeaderContainer_ddcec6 {
+    width: 275px;
+}
+
+.headerText__051c0 {
+    font-size: small;
+    transition: 0.75s;
+    margin-left: -6px;
+}
+
+.channel_c21703:hover {
+    border-radius: 15px;
+}
+
+.channel_c21703 {
+    border-radius: 15px;
+    width: 300px;
+}
+
+#private-channels-uid_595___nitro {
+    display: none;
+    content: "fsfsdf";
+}
+
+.interactive__776ee, .interactive_a868bc, .interactiveSelected_ec846b, .selected_d94cf9 {
+    width: 250px;
+    letter-spacing: 0.45px;
+    transition: 0.5s;
+    margin-top: 0.4px;
+}
+
+.interactive__776ee:hover, .interactive_a868bc:hover, .interactiveSelected_ec846b:hover, .selected_d94cf9:hover {
+    letter-spacing: 0.75px;
+}
+
+.selected_d94cf9 {
+    letter-spacing: 1px;
+    font-size: x-large;
+}
+
+.gameIcon__90c32, .medium__2316b, .gameIcon_f12921 {
+    border-radius: 8px;
+    width: 34px;
+    height: 34px;
+}
+
+.button__4f306:hover {
+    border-radius: 10px;
+}
+
+.text-sm-normal_e612c7, .title__10613, .activityName__7b1c1 {
+    transition: 0.75s;
+}
+.text-sm-normal_e612c7:hover, .title__10613:hover, .activityName__7b1c1:hover {
+    letter-spacing: 0.7px;
+}
+
+.headerText__051c0:hover {
+    letter-spacing: 1px;
+}
+
+/*The VC-Spotify-Player*/
+
+#vc-spotify-album-image:hover {
+    filter: brightness();
+}
+
+#vc-spotify-player {
+    border-radius: 14px;
+    margin: 0px 7px 5px 7px;
+}
+
+#vc-spotify-button-row:hover {
+    filter: brightness();
+}
+
+#vc-spotify-album-image {
+    border-radius: 8px;
+}
+
+#vc-spotify-titles {
+    margin-top: 5px;
+}
+
+/**/
